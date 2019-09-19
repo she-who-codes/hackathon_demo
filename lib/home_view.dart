@@ -1,12 +1,9 @@
 import 'package:flutter/material.dart';
-import 'schedule_view.dart';
+//import 'schedule_view.dart';
+import 'alt_schedule_view.dart';
 import 'map_view.dart';
 import 'links_view.dart';
 
-//Main View with lists of buttons
-//schedule
-//map and location
-//Social Links: facebook, twitter, slack
 class HomeView extends StatefulWidget {
   @override
 
